@@ -24,6 +24,10 @@ object-assign
  * @author: Jack Doyle, jack@greensock.com
 */
 
+/*! iNoBounce - v0.1.6
+* https://github.com/lazd/iNoBounce/
+* Copyright (c) 2013 Larry Davis <lazdnet@gmail.com>; Licensed BSD */
+
 /** @license React v0.20.2
  * scheduler.production.min.js
  *
